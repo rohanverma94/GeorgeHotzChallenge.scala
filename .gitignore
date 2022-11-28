@@ -1,0 +1,6 @@
+/.bsp/
+/target/
+/project/project/
+/project/target/
+/python-thrift/gen-py/
+/.idea/
