@@ -1,9 +1,11 @@
 # This is GeorgeHotzSucks.scala
 
-This is a polished implementation of **twitter based finagle-thrift** server and **Python 3 based client**. So George Hotz has thrown an open challenge to comeup with python-finagle-thrift in 2 hours, so here it is.
+This is a polished implementation of **twitter based finagle-thrift** server and **Python 3 based client**. 
+
+Some hours ago George Hotz has thrown an open challenge to comeup with python-finagle-thrift in 2 hours, so here it is. All thanks to **_GeorgeHotzSucks.scala_**!.
 
 This is a complete rewrite and yet still better than George Hotz's version. His stream can be found at - 
-https://www.youtube.com/watch?v=nvtoOxNfDQo ,all because **_GeorgeHotzSucks.scala_**!.
+https://www.youtube.com/watch?v=nvtoOxNfDQo 
 
 ### Requirements
 - Scala 2.13.10
