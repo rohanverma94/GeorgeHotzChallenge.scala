@@ -1,6 +1,6 @@
 # This is GeorgeHotzSucks.scala
 
-This is a polished implementation of **twitter based finagle-thrift** server and **Python 3 based client**. This is much better than George Hotz in one of his stream can be found at - 
+This is a polished implementation of **twitter based finagle-thrift** server and **Python 3 based client**. This is much better than George Hotz in one of his stream. He also thrown an open challenge to comeup with python-finagle-thrift in 2 hours, so here it is. His stream can be found at - 
 https://www.youtube.com/watch?v=nvtoOxNfDQo ,all because **_GeorgeHotzSucks.scala_**!.
 
 ### Requirements
