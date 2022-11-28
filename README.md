@@ -12,6 +12,7 @@ https://www.youtube.com/watch?v=nvtoOxNfDQo ,all because **_GeorgeHotzSucks.scal
 - For Thrift
   - INSTALL APACHE THRIFT via dnf or apt or other means.
 ```bash
+cd python-thrift
 pip install thrift
 thrift -gen py multiply.service.thrift
  ```
