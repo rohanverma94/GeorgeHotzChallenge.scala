@@ -1,6 +1,6 @@
 # This is GeorgeHotzSucks.scala
 
-This is a polished implementation of **twitter based finagle-thrift** server and **Python 3 based client**. 
+This is a polished implementation of **twitter's finagle-thrift** RPC server and **Python 3 based client**. 
 
 Some hours ago George Hotz has thrown an open challenge to comeup with python-finagle-thrift in 2 hours, so here it is. All thanks to **_GeorgeHotzSucks.scala_**!.
 
