@@ -2,7 +2,7 @@
 
 This is a polished implementation of **twitter's finagle-thrift** RPC server and **Python 3 based client**. 
 
-Some hours ago George Hotz has thrown an open challenge to comeup with python-finagle-thrift in 2 hours, so here it is. All thanks to **_GeorgeHotzSucks.scala_**!.
+Some hours ago George Hotz has thrown an open challenge to comeup with python-finagle-thrift in 2 hours, so here it is.
 
 This is a complete rewrite and yet still better than George Hotz's version. His stream can be found at - 
 https://www.youtube.com/watch?v=nvtoOxNfDQo 
