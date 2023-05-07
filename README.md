@@ -1,4 +1,4 @@
-# This is GeorgeHotzSucks.scala
+# This is GeorgeHotzChallenge.scala
 
 This is a polished implementation of **twitter's finagle-thrift** RPC server and **Python 3 based client**. 
 
